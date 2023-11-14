@@ -1,0 +1,7 @@
+h2.texto2 {
+    font-size: 50px;
+    font-family: cursive, fira code, sans-serif;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 2px #000;
+}
