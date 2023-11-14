@@ -77,12 +77,3 @@ a::before {
     background-color: #000;
 }
 
-.caixa {
-    position: center;
-    width: 627px;
-    height: 184px;
-    margin-top: 196px;
-    margin-left: 91px;
-    background-color: cadetblue;
-    box-shadow: 5px 5px 3px;
-}
