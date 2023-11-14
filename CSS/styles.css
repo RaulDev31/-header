@@ -28,10 +28,13 @@
 .logotexto {
     display: inline-flex;
     vertical-align: middle;
-    font-size: 35px;
-    font-family: fira code;
     margin-right: 300px;
-    text-shadow: 2px 2px 0px white;
+    font-size: 35px;
+    font-family: cursive, sans-serif;
+    text-align: center;
+    color: purple;
+    text-shadow: 3px 3px 2px #000;
+
 }
 
 nav {
@@ -80,6 +83,6 @@ a::before {
     height: 184px;
     margin-top: 196px;
     margin-left: 91px;
-    background-color: magenta;
+    background-color: cadetblue;
     box-shadow: 5px 5px 3px;
 }
